@@ -1,0 +1,1 @@
+grade = input(" Qual a sua nota 1? (CALCULA para calcular notas) ")
