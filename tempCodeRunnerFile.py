@@ -1,1 +1,4 @@
-grade = input(" Qual a sua nota 1? (CALCULA para calcular notas) ")
+cursor.execute(select_product)
+# produts = cursor.fetchall()
+# for product in produts:
+#     print(product)
